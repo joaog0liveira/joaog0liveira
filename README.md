@@ -16,19 +16,19 @@
 
 <p align="left">
 <a href="mailto:joaog.meireles@outlook.com">
-  <img src="https://img.shields.io/badge/-Microsoft Outlook-gray?style=flat-square&labelColor=white&logo=microsoft-outlook&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+  <img src="https://img.shields.io/badge/-Microsoft Outlook-gray?style=flat-square&labelColor=white&logo=microsoft-outlook&logoColor=gray&link=mailto:joaog.meireles@outlook.com" />
 </a>
 
-<a href="https://discord.gg/sandevz" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
+<a href="https://www.instagram.com/joao_goliveira/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-gray?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://www.instagram.com/joao_goliveira/"/>
 </a>
 
-<a href="https://twitter.com/sandevz" alt="Twitter">
+<a href="https://twitter.com/joaogoliveira_" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sandypiropo" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+<a href="https://www.linkedin.com/in/joaogmeireles/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogmeireles/"/>
 </a>
 
 
