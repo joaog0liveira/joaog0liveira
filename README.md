@@ -1,29 +1,72 @@
-### Olá! Meu nome é João Gabriel, seja bem vindo!
+# João Gabriel
 
-<div align="center">
-  <a href="https://github.com/joaog0liveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaog0liveira&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaog0liveira&layout=compact&langs_count=7&theme=black"/>
-</div>
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+
+<p align="left"> 
+      Hello there! I'm a 20-year-old development projects in <strong>Java</strong> currently pursuing a degree in <strong>Information Systems</strong>.
+</p>
+
+<p align="left">
+  🕑 I'm Learning: <strong>Java OOP (Udemy), Spring Boot and Angular</strong>
+</p>
+
+<p align="left">
+ <strong>You can find me on:<strong>
+</p>
+
+<p align="left">
+<a href="mailto:joaog.meireles@outlook.com">
+  <img src="https://img.shields.io/badge/-Microsoft Outlook-gray?style=flat-square&labelColor=white&logo=microsoft-outlook&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+</a>
+
+<a href="https://discord.gg/sandevz" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
+</a>
+
+<a href="https://twitter.com/sandevz" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sandypiropo" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
+
+
+<strong>My Skills:<strong>
   
-
-## Atualmente estudando e desenvolvendo projetos em: 
-<div style="display: inline_block"><br>
+ <details>
+    <summary>Languages</summary>
+    
+  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![C](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=Angular&logoColor=red)
+  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  </details>
+  <details>
+    <summary>Tools</summary>
+    
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+  </details>
   
-        
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-</div>
-
-##
+# My Status
 <div>
-<a href="https://www.instagram.com/joao_goliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:joaog.meireles@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaogmeireles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaog0liveira&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaog0liveira&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+<!--
+![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
+![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
