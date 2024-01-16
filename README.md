@@ -3,7 +3,7 @@
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 20-year-old development projects in <strong>Java</strong> currently pursuing a degree in <strong>Information Systems</strong>.
+      Hello there! I'm a 21-year-old development projects in <strong>Java</strong> currently pursuing a degree in <strong>Information Systems</strong>.
 </p>
 
 <p align="left">
