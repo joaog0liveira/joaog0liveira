@@ -39,7 +39,6 @@
     
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
-  ![C](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=Angular&logoColor=red)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
@@ -50,6 +49,8 @@
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+  ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=Angular&logoColor=red)
+  ![Angular](https://img.shields.io/badge/Spring-100000?style=for-the-badge&logo=spring&logoColor=white)
   </details>
   
 # My Status
