@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Java OOP (Udemy), Spring Boot and Angular</strong>
+  🕑 I'm Learning: <strong>Java OOP, Spring Boot, Elixir and Angular</strong>
 </p>
 
 <p align="left">
