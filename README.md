@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/joaogmeireles/" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/joaogomeireles/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogmeireles/"/>
 </a>
 
@@ -36,9 +36,10 @@
   
  <details>
     <summary>Languages</summary>
-    
-  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+
+  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
