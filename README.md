@@ -1,9 +1,9 @@
-# João Gabriel
+# Welcome to my profile!
 
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 21-year-old development projects in <strong>Java</strong> currently pursuing a degree in <strong>Information Systems</strong>.
+      Hello! My name is João Gabriel and I am 21 years old.  Currently studying for a degree in <strong>Information Systems</strong>.
 </p>
 
 <p align="left">
@@ -54,20 +54,6 @@
   ![Angular](https://img.shields.io/badge/Spring-100000?style=for-the-badge&logo=spring&logoColor=white)
   </details>
   
-# My Status
-<div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaog0liveira&theme=react&hide_border=false"/>
-      </td>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaog0liveira&layout=compact&theme=react&count_private=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
