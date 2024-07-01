@@ -51,7 +51,7 @@
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=Angular&logoColor=red)
   ![Spring](https://img.shields.io/badge/Spring-100000?style=for-the-badge&logo=spring&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=spring&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white)
   </details>
   
 
