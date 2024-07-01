@@ -37,7 +37,6 @@
  <details>
     <summary>Languages</summary>
 
-  ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
@@ -51,7 +50,8 @@
   ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=Angular&logoColor=red)
-  ![Angular](https://img.shields.io/badge/Spring-100000?style=for-the-badge&logo=spring&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-100000?style=for-the-badge&logo=spring&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=spring&logoColor=white)
   </details>
   
 
