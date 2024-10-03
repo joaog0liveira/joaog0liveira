@@ -38,7 +38,7 @@
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
-  ![KOTLIN](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white).
+  ![KOTLIN](https://img.shields.io/badge/Kotlin-100000?style=for-the-badge&logo=Kotlin&logoColor=blue).
   </details>
   <details>
     <summary>Tools</summary>
