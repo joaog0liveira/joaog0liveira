@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Java OOP, Spring Boot, Go and Angular</strong>
+  🕑 I'm Learning: <strong>Java OOP, Spring Boot, Kotlin and Angular</strong>
 </p>
 
 <p align="left">
@@ -21,10 +21,6 @@
 
 <a href="https://www.instagram.com/joao_goliveira/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-gray?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://www.instagram.com/joao_goliveira/"/>
-</a>
-
-<a href="https://twitter.com/joaogoliveira_" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/joaogomeireles/" alt="LinkedIn">
@@ -42,6 +38,7 @@
   ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  ![KOTLIN](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white).
   </details>
   <details>
     <summary>Tools</summary>
