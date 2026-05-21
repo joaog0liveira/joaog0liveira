@@ -19,10 +19,6 @@
   <img src="https://img.shields.io/badge/-Microsoft Outlook-gray?style=flat-square&labelColor=white&logo=microsoft-outlook&logoColor=gray&link=mailto:joaog.meireles@outlook.com" />
 </a>
 
-<a href="https://www.instagram.com/joao_goliveira/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-gray?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://www.instagram.com/joao_goliveira/"/>
-</a>
-
 <a href="https://www.linkedin.com/in/joaogomeireles/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaogmeireles/"/>
 </a>
